@@ -60,3 +60,9 @@ body {
 .person-name p {
     font-size: 0.5rem;
 }
+.text-common {
+    background-color: hsl(272,41%,93%);
+    color: pink;
+    margin: 0.75rem;
+    padding: 0.5rem;
+}
